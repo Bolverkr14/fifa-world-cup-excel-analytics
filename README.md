@@ -54,11 +54,6 @@ Les principales variables utilisées sont :
 - buts marqués ;
 - conditions de victoire ;
 - pays ;
-- joueurs ;
-- postes ;
-- clubs.
-
-> Si les résultats 2026 présents dans le dataset sont simulés ou projetés, ils doivent être interprétés comme des données de scénario et non comme des résultats historiques confirmés.
 
 ## Méthodologie
 
@@ -317,9 +312,3 @@ Projet réalisé dans le cadre de ma transition vers le métier de Data Analyst 
 Mon parcours d’apprentissage :
 
 `Excel → SQL → Power BI → Microsoft Fabric`
-
-## Contact
-
-- LinkedIn : [Ajouter le lien]
-- E-mail : [Ajouter l’adresse professionnelle]
-- GitHub : [Ajouter le lien de ton profil]
