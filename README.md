@@ -289,13 +289,13 @@ Les prochaines étapes envisagées sont :
 
 ![image of the readme](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/readme.png)
 ![image of the data_dictionary](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/data-dictionnary.png)
-![image of the calculation](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/dashboard-resume.png)
+![image of the calculation](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/calculation.png)
 ![image of the data-quality](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/data-quality.png)
 ![image of the dashboard resume](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/dashboard-resume.png)
 
 ## Fichiers du dépôt
 
-- [EXCEL FILE](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/workbook/FIFA_World_Cup_Data_Analysis_1930_2026.xlsx) : classeur Excel principal ;
+- [Fichier Excel](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/workbook/FIFA_World_Cup_Data_Analysis_1930_2026.xlsx) : classeur Excel principal ;
 - `images/` : captures du dashboard ;
 - [documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md) : dictionnaire des données ;
 - [documentation/kpi-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/kpi-dictionary.md) : dictionnaire des KPI ;
