@@ -181,7 +181,7 @@ Le bloc `VERSUS` permet de sélectionner deux équipes et de comparer :
 - leurs scores offensif, défensif et global ;
 - leur forme lors des derniers matchs.
 
-images/versus-model.png
+![image of the versus](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/versus-model.png)
 
 ## Modèle indicatif de probabilité
 
