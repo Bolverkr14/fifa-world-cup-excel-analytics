@@ -6,7 +6,7 @@ Ce projet analyse les données historiques de la Coupe du monde de football de 1
 
 L’objectif est de démontrer une démarche complète d’analyse de données, depuis le contrôle des données brutes jusqu’à la conception d’un tableau de bord interactif et d’un modèle indicatif de comparaison entre deux équipes.
 
-images/dashboard-overview.png
+[httpsimages/dashboard-overview.png](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/images/dashboard-overview.png)
 
 ## Contexte
 
