@@ -287,11 +287,11 @@ Les prochaines étapes envisagées sont :
 
 ## Fichiers du dépôt
 
-- `workbook/FIFA_WORLD_CUP_ANALYTICS.xlsx` : classeur Excel principal ;
+- [EXCEL FILE](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/workbook/FIFA_World_Cup_Data_Analysis_1930_2026.xlsx) : classeur Excel principal ;
 - `images/` : captures du dashboard ;
-- `[documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md)` : dictionnaire des données ;
-- `documentation/kpi-dictionary.md` : dictionnaire des KPI ;
-- `documentation/methodology.md` : méthode de traitement et limites.
+- [documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md) : dictionnaire des données ;
+- [documentation/kpi-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/kpi-dictionary.md) : dictionnaire des KPI ;
+- [documentation/methodology.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/methodology.md) : méthode de traitement et limites.
 
 ## Ouvrir le projet
 
