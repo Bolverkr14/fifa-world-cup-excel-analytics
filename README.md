@@ -296,7 +296,7 @@ Les prochaines étapes envisagées sont :
 ## Fichiers du dépôt
 
 - [Fichier Excel](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/workbook/FIFA_World_Cup_Data_Analysis_1930_2026.xlsx) : classeur Excel principal ;
-- `images/` : captures du dashboard ;
+- [`images/`](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/tree/main/images) : captures du dashboard ;
 - [documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md) : dictionnaire des données ;
 - [documentation/kpi-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/kpi-dictionary.md) : dictionnaire des KPI ;
 - [documentation/methodology.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/methodology.md) : méthode de traitement et limites.
