@@ -289,7 +289,7 @@ Les prochaines étapes envisagées sont :
 
 - `workbook/FIFA_WORLD_CUP_ANALYTICS.xlsx` : classeur Excel principal ;
 - `images/` : captures du dashboard ;
-- `([documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md)` : dictionnaire des données ;
+- `[documentation/data-dictionary.md](https://github.com/Bolverkr14/fifa-world-cup-excel-analytics/blob/main/documentation/data-dictionary.md)` : dictionnaire des données ;
 - `documentation/kpi-dictionary.md` : dictionnaire des KPI ;
 - `documentation/methodology.md` : méthode de traitement et limites.
 
